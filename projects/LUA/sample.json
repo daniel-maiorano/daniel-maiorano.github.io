@@ -4,18 +4,18 @@
         "version":"1",
         "author":"daniel.maiorano @gmail.com",
         "hw": [674,675,676,677,678,679,680],
-        "releaseDate":"Sat, 05 Dec 2020 21:22:04 +0100",
+        "releaseDate":"Sat, 05 Dec 2020 21:47:50 +0100",
         "name":{
            "en":"Dash Panel",
            "fr":"Dash Panel",
            "es":"Dash Panel"
         },
         "description":{
-           "en":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/.info/desc/en.html",
-           "fr":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/.info/desc/fr.html",
-           "es":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/.info/desc/es.html"
+           "en":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/info/desc/en.html",
+           "fr":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/info/desc/fr.html",
+           "es":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/info/desc/es.html"
         },
-        "previewIcon":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/.info/icon.png",
+        "previewIcon":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/info/icon.png",
         "files":[
             {
               "url":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/dashpanl/models/default.jsn",
