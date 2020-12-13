@@ -130,10 +130,6 @@ end
 
 local function init(code)
 
-    -- pcallOK, emulator = pcall(require, "sensorEmulator")
-    -- if not pcallOK then print("Error:", emulator) end
-    -- if pcallOK and emulator then emulator.init("SpeedSp/info") end
-
     prevTime=0
     prevSpeed=0
     local pLoad = system.pLoad
