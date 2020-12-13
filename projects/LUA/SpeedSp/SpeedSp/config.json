@@ -1,0 +1,27 @@
+{
+  "default" : "en",
+  "en" : {
+    "appName" : "Speed announcer",
+    "speedSensor" : "Select Speed Sensor",
+    "sw" : "Select Switch",
+    "minSpeedTr" : "Min Speed",
+    "units" : "Units",
+    "repet" : "Repeat"
+  },
+  "fr" : {
+    "appName" : "Annonce vitesse",
+    "speedSensor" : "Capteur de vitesse",
+    "sw" : "Inter pour activer",
+    "minSpeedTr" : "Vitesse minimum",
+    "units" : "Unités",
+    "repet" : "Repeter"
+  },
+  "es" : {
+    "appName" : "Anuncio de velocidad",
+    "speedSensor" : "Captor de velociad",
+    "sw" : "Inter. de activacion",
+    "minSpeedTr" : "Velocidad minima",
+    "units" : "Unidades",
+    "repet" : "Repeticion"
+  }
+}
