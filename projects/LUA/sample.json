@@ -4,7 +4,7 @@
         "version":"1",
         "author":"daniel.maiorano @gmail.com",
         "hw": [674,675,676,677,678,679,680],
-        "releaseDate":"Sat, 05 Dec 2020 23:15:34 +0100",
+        "releaseDate":"Dec  5 17:44:52 2020",
         "name":{
            "en":"Dash Panel",
            "fr":"Dash Panel",
@@ -71,6 +71,39 @@
               "destination":"Apps/dashpanl.lua",
               "hash":"c8934b95f92a299f68cac455c8b6f2d9a77bc4c9",
               "size":10172
+           }
+]}
+,
+            {
+        "id":0,
+        "version":"1.1",
+        "author":"daniel.maiorano @gmail.com",
+        "hw": [674,675,676,677,678,679,680],
+        "releaseDate":"Dec 12 18:22:45 2020",
+        "name":{
+           "en":"Speed Speech",
+           "fr":"Speed Speech",
+           "es":"Speed Speech"
+        },
+        "description":{
+           "en":"https://daniel-maiorano.github.io/projects/LUA/SpeedSp/info/desc/en.html",
+           "fr":"https://daniel-maiorano.github.io/projects/LUA/SpeedSp/info/desc/fr.html",
+           "es":"https://daniel-maiorano.github.io/projects/LUA/SpeedSp/info/desc/es.html"
+        },
+        "previewIcon":"https://daniel-maiorano.github.io/projects/LUA/SpeedSp/info/icon.png",
+        "files":[
+            {
+              "url":"https://daniel-maiorano.github.io/projects/LUA/SpeedSp/SpeedSp.lua",
+              "destination":"Apps/SpeedSp.lua",
+              "hash":"b2720b169a51c2c57b11cf9b9c22cd677bbd057e",
+              "size":6439
+           }
+,
+            {
+              "url":"https://daniel-maiorano.github.io/projects/LUA/SpeedSp/SpeedSp/config.json",
+              "destination":"Apps/SpeedSp/config.json",
+              "hash":"e7cbd1d3160e2818c3a58e5ea14eb062769f82b4",
+              "size":660
            }
 ]}
 ]}
