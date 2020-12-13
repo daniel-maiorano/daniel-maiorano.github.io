@@ -1,5 +1,8 @@
 -- speedsp.lua
 -- Announces speed without units
+-- Author Daniel MAIORANO
+
+-- Version 1.1  Dec 13, 2020
 
 collectgarbage()
 --------------------------------------------------------------------------------
