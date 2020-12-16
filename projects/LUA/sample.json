@@ -3,8 +3,8 @@
         "id":0,
         "version":"1",
         "author":"daniel.maiorano @gmail.com",
-        "hw": [676,677,678,679,680],
-        "releaseDate":"Dec 13 11:54:44 2020",
+        "hw": [674,675,676,677,678,679,680],
+        "releaseDate":"Dec 16 21:42:22 2020",
         "name":{
            "en":"Dash Panel",
            "fr":"Dash Panel",
@@ -67,10 +67,10 @@
            }
 ,
             {
-              "url":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/dashpanl.lua",
-              "destination":"Apps/dashpanl.lua",
-              "hash":"c8934b95f92a299f68cac455c8b6f2d9a77bc4c9",
-              "size":10172
+              "url":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/dashpanl.lc",
+              "destination":"Apps/dashpanl.lc",
+              "hash":"aff887351fcce88f6b2b26923af194aeb4f32981",
+              "size":6003
            }
 ]}
 ,
