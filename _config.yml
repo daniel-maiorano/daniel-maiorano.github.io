@@ -106,6 +106,9 @@ collections:
           type: project
         values:
           layout: page
+    
+
+
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 

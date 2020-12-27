@@ -11,63 +11,63 @@
            "es":"Dash Panel"
         },
         "description":{
-           "en":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/info/desc/en.html",
-           "fr":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/info/desc/fr.html",
-           "es":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/info/desc/es.html"
+           "en":"https://daniel-maiorano.github.io/repo/LUA/dashpanel/info/desc/en.html",
+           "fr":"https://daniel-maiorano.github.io/repo/LUA/dashpanel/info/desc/fr.html",
+           "es":"https://daniel-maiorano.github.io/repo/LUA/dashpanel/info/desc/es.html"
         },
-        "previewIcon":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/info/icon.png",
+        "previewIcon":"https://daniel-maiorano.github.io/repo/LUA/dashpanel/info/icon.png",
         "files":[
             {
-              "url":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/dashpanl/models/default.jsn",
+              "url":"https://daniel-maiorano.github.io/repo/LUA/dashpanel/dashpanl/models/default.jsn",
               "destination":"Apps/dashpanl/models/default.jsn",
               "hash":"04225b7476cea3ee56be234f98aee0d9e6c0cbb6",
               "size":389
            }
 ,
             {
-              "url":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/dashpanl/img/flap-ld.png",
+              "url":"https://daniel-maiorano.github.io/repo/LUA/dashpanel/dashpanl/img/flap-ld.png",
               "destination":"Apps/dashpanl/img/flap-ld.png",
               "hash":"c09913f379177b083d6249d9239df72b352a2e2f",
               "size":159
            }
 ,
             {
-              "url":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/dashpanl/img/gear-down.png",
+              "url":"https://daniel-maiorano.github.io/repo/LUA/dashpanel/dashpanl/img/gear-down.png",
               "destination":"Apps/dashpanl/img/gear-down.png",
               "hash":"5e37ec7bd31dd661ae997dd4d7447fe88e052149",
               "size":180
            }
 ,
             {
-              "url":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/dashpanl/img/flap-0.png",
+              "url":"https://daniel-maiorano.github.io/repo/LUA/dashpanel/dashpanl/img/flap-0.png",
               "destination":"Apps/dashpanl/img/flap-0.png",
               "hash":"a3e817d36349452cd34bc4569ce325027e6cf61c",
               "size":112
            }
 ,
             {
-              "url":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/dashpanl/img/flap-to.png",
+              "url":"https://daniel-maiorano.github.io/repo/LUA/dashpanel/dashpanl/img/flap-to.png",
               "destination":"Apps/dashpanl/img/flap-to.png",
               "hash":"952b872edc3f253dbb2111e80721be0db966be56",
               "size":151
            }
 ,
             {
-              "url":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/dashpanl/img/gear-up.png",
+              "url":"https://daniel-maiorano.github.io/repo/LUA/dashpanel/dashpanl/img/gear-up.png",
               "destination":"Apps/dashpanl/img/gear-up.png",
               "hash":"b5f7808f347632b98e872b4f49b8cb7eb6caa04d",
               "size":168
            }
 ,
             {
-              "url":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/dashpanl/config.jsn",
+              "url":"https://daniel-maiorano.github.io/repo/LUA/dashpanel/dashpanl/config.jsn",
               "destination":"Apps/dashpanl/config.jsn",
               "hash":"578a60d676492012e9f658bc4268d0228021ed37",
               "size":1504
            }
 ,
             {
-              "url":"https://daniel-maiorano.github.io/projects/LUA/dashpanel/dashpanl.lc",
+              "url":"https://daniel-maiorano.github.io/repo/LUA/dashpanel/dashpanl.lc",
               "destination":"Apps/dashpanl.lc",
               "hash":"aff887351fcce88f6b2b26923af194aeb4f32981",
               "size":6003
@@ -86,21 +86,21 @@
            "es":"Speed Speech"
         },
         "description":{
-           "en":"https://daniel-maiorano.github.io/projects/LUA/SpeedSp/info/desc/en.html",
-           "fr":"https://daniel-maiorano.github.io/projects/LUA/SpeedSp/info/desc/fr.html",
-           "es":"https://daniel-maiorano.github.io/projects/LUA/SpeedSp/info/desc/es.html"
+           "en":"https://daniel-maiorano.github.io/repo/LUA/SpeedSp/info/desc/en.html",
+           "fr":"https://daniel-maiorano.github.io/repo/LUA/SpeedSp/info/desc/fr.html",
+           "es":"https://daniel-maiorano.github.io/repo/LUA/SpeedSp/info/desc/es.html"
         },
-        "previewIcon":"https://daniel-maiorano.github.io/projects/LUA/SpeedSp/info/icon.png",
+        "previewIcon":"https://daniel-maiorano.github.io/repo/LUA/SpeedSp/info/icon.png",
         "files":[
             {
-              "url":"https://daniel-maiorano.github.io/projects/LUA/SpeedSp/SpeedSp.lua",
+              "url":"https://daniel-maiorano.github.io/repo/LUA/SpeedSp/SpeedSp.lua",
               "destination":"Apps/SpeedSp.lua",
               "hash":"f25dc23ee5765822818196a2c9d4ee06fe986353",
               "size":6116
            }
 ,
             {
-              "url":"https://daniel-maiorano.github.io/projects/LUA/SpeedSp/SpeedSp/config.json",
+              "url":"https://daniel-maiorano.github.io/repo/LUA/SpeedSp/SpeedSp/config.json",
               "destination":"Apps/SpeedSp/config.json",
               "hash":"e7cbd1d3160e2818c3a58e5ea14eb062769f82b4",
               "size":660
