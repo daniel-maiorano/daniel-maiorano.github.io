@@ -5,7 +5,7 @@ nav-name: maio
 nav-url: "privacy"
 ---
 
-# Privacy Policy for all the apps developed by me
+This is the Privacy Policy for all the apps developed by me
 
 **Last Updated:** Aug 27, 2023
 
