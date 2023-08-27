@@ -13,7 +13,6 @@ Too long to write here... but start developing when I was 16 on a Commodore PET.
 Today writting firmware using MBED, mainly for RC airplanes
 
 
-<a id="privacy"></a>
 # Privacy Policy for all the apps developed by me
 
 **Last Updated:** Aug 27, 2023
