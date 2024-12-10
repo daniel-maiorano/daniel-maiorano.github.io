@@ -1,4 +1,4 @@
-FROM ruby:2.2
+FROM ruby
 RUN gem install jekyll bundler
 
 RUN mkdir -p /app
