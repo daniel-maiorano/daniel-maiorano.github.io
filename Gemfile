@@ -8,4 +8,4 @@ gem "jekyll-commonmark-ghpages" , "0.5.1"
 gem "commonmarker", ">= 0.23.10"
 gem 'bundler', '~> 2.5', '>= 2.5.23'
 gem 'nokogiri', '~> 1.19.1'
-
+gem 'faraday', '~> 2.14.2'
